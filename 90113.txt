@@ -1,0 +1,8 @@
+git commands:
+  mkdir
+cd file name
+git init
+git clone
+gir add .
+git commit
+git push
